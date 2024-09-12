@@ -2,6 +2,12 @@
 
 Docsify modele de publication via actions
 
+## Activer le déploiement de page
+
+via Github Actions
+
+![page-action](https://i.ibb.co/2gkwH9L/page-action.png)
+
 
 ## Personalisation
 

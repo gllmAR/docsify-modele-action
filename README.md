@@ -65,3 +65,15 @@ Source et lien vers style CSS lié  [gllmAR/docsify-simple-style](https://github
     }
 </style>
 ```
+
+
+#### Section substitution de navigation 
+
+```
+les élément start-replace-subnav et end-replace-subnav  lorsqu'ils sont dans des commentaire HTML sont substitués dans par un des scripts via intégration continue 
+```
+
+<!-- start-replace-subnav -->
+* [Un titre en exemple](/10_example/)
+<!-- end-replace-subnav -->
+<!-- end-replace-subnav -->
